@@ -1,2 +1,2 @@
-# asteroids
+# Asteroids
 Repository for the Asteroids guided project from Boot.dev
