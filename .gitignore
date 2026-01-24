@@ -15,6 +15,7 @@ env/
 
 # Logging
 game_state.jsonl
+game_events.jsonl
 
 # IDE
 .vscode/
